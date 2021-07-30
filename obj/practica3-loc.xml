@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 16" line=" 41" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\tienda.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 42" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\estoc.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 66" line=" 74" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\estoc.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 46" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\arbolavl.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 282" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\arbolavl.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 37" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\tienda.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 99" line=" 33" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\tienda.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 35" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\tienda.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 29" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\tienda.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 36" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\tienda.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 23" line=" 35" >
+      <vfs_project>C:\Users\Miguel\Desktop\Ada\ada\practica3.gpr</vfs_project>
+      <vfs_file>C:\Users\Miguel\Desktop\Ada\ada\src\tienda.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
